@@ -1,0 +1,45 @@
+                                        ---- EDA ----
+
+  Exploratory Data Analytics - Approach   --- Hypothesis
+
+
+  1. Data Sourcing 
+  2. Data Cleaning
+  3. Univariate Analysis
+  4. Bivariate Analysis
+  5. Multivariate Analysis
+
+
+  Data Source - Data Loading
+  1. Public Data - govt. websites
+  2. Private Data - Kaggle.com  - sensitive information (Banking Data, Insurance Data, Adv. Data)
+
+
+  Data Cleaning - 80% of your time bangalore - bengaluru banglore BANGALORE
+  1. Fix rows and columns
+  2. Fix missing values - 
+  3. Standarized Values - 
+  4. Fix Invalid Values -
+  5. Filter Data - extract only that columns which are going to impact the target one
+
+
+Univariate Analysis - single column at a time
+                    - MetaData Description - info data types rows 
+                    - Data Distribution - Histograms, Boxplot, Distribution
+                     -Summary Metrics - mean median mode sd var cv range
+
+
+Bivariate Analysis - two columns at a time
+                     Correlation is a metric to find relation b/w two columns
+                     
+
+Multivariate Analysis - more than 2 columns i.e. 3, 4,5
+
+
+
+
+  
+  
+
+
+
